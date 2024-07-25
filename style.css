@@ -21,6 +21,7 @@ body {
     transform: translate(-50%, -50%);
     background-color: hsl(0, 0%, 20%);
     border-radius: 10px;
+    box-shadow: 5px 10px 8px #3535356c;
     
 }
 
